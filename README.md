@@ -13,7 +13,7 @@ A simple React project using pure HTML and CSS, with each section encapsulated i
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/my-react-project.git
+   git clone https://github.com/yazanOthman/Web-Agency
 
    ```
 
